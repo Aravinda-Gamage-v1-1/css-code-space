@@ -1,0 +1,29 @@
+* {
+    background-color: aquamarine;
+}
+
+p {
+    text-align: center;
+    color: red;
+}
+
+#para1 {
+    text-align: right;
+    color: green;
+}
+
+.para2 {
+    text-align: left;
+    color: blue;
+}
+
+p.center {
+    text-align: center;
+    color: aquamarine;
+
+}
+
+.large {
+    font-size: 20px;
+    font-weight: bold;
+}
