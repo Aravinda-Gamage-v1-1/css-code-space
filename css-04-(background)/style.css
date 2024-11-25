@@ -1,0 +1,15 @@
+/* CSS background*/
+body {
+    background-color: lightblue; /* The background-color property specifies the background color of an element. */
+    background-image: url(/css-04-\(background\)/img1.jpg); /* The background-image property specifies an image to use as the background of an element. */
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+#div1 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    opacity: 0.3;
+}
