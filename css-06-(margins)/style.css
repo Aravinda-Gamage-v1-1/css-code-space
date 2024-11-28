@@ -1,0 +1,16 @@
+#p1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+#p2 {
+    margin: 25px 50px 75px 100px;
+}
+
+#p3 {
+    width: 300px;
+    margin: auto;
+    border: 2px solid red;
+}
