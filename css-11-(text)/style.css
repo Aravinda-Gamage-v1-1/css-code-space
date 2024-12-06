@@ -1,36 +1,46 @@
 body {
-    background-color: lightgray;
-    color: blue;
+  background-color: lightgray;
+  color: blue;
 }
 
 h1 {
-    background-color: black;
-    color: red;
-    text-align: center;
+  background-color: black;
+  color: red;
+  text-align: center;
+  text-decoration: overline;
 }
 
 h2 {
-    text-align: left;
+  text-align: left;
+  text-decoration: line-through;
+  text-decoration-color: red;
 }
 
 h3 {
-    text-align: right;
+  text-align: right;
+  text-decoration: underline;
+  text-decoration-style: wavy;
 }
 
 div {
-    background-color: blue;
-    color: white;
-    text-align: justify;
+  background-color: blue;
+  color: white;
+  text-align: justify;
 }
 
 p.a {
-    text-align-last: right;
-  }
-  
-  p.b {
-    text-align-last: center;
-  }
-  
-  p.c {
-    text-align-last: justify;
-  }
+  text-align-last: right;
+}
+
+p.b {
+  text-align-last: center;
+  text-decoration: overline underline red double 5px;
+}
+
+p.c {
+  text-align-last: justify;
+}
+
+a {
+    text-decoration: none;
+}
