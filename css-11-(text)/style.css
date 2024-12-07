@@ -8,6 +8,7 @@ h1 {
   color: red;
   text-align: center;
   text-decoration: overline;
+  text-shadow: 2px 2px 5px white;
 }
 
 h2 {
@@ -30,15 +31,23 @@ div {
 
 p.a {
   text-align-last: right;
+  text-transform: uppercase;
+  text-indent: 50px;
 }
 
 p.b {
   text-align-last: center;
-  text-decoration: overline underline red double 5px;
+  /* text-decoration: overline underline red double 5px; */
+  text-transform: lowercase;
+  letter-spacing: 10px;
 }
 
 p.c {
   text-align-last: justify;
+  text-transform: capitalize;
+  line-height: 1.8;
+  word-spacing: 10px;
+  white-space: nowrap;
 }
 
 a {
