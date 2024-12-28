@@ -1,0 +1,12 @@
+div {
+    background-color: coral;
+    width: 200px;
+    height: 65px;
+    border: 1px solid;
+    /* overflow: visible; */
+    /* overflow: hidden; */
+    /* overflow: scroll; */
+    /* overflow: auto; */
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
