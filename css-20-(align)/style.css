@@ -46,3 +46,8 @@ div {
     clear: both;
     display: table;
   }
+
+  .center1 {
+    padding: 70px 0;
+    border: 3px solid green;
+  }
