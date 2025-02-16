@@ -28,7 +28,7 @@ span.a {
   .nav {
     background-color: yellow; 
     list-style-type: none;
-    text-align: center;
+    text-align: left;
     margin: 0;
     padding: 0;
   }
